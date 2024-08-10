@@ -227,7 +227,7 @@
           </div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12">
-          <div class="c-block"><i class="fa fa-cogs"></i><span class="counter">10</span>
+          <div class="c-block"><i class="fa fa-cogs"></i><span class="counter">3</span>
             <p>Service Offerings</p>
           </div>
         </div>
@@ -264,14 +264,15 @@
           
           <!--home article-->
           <article class="col-md-3 col-sm-6 col-xs-12">
-            <header class="entry-header"> <a href="blog-post.html"><img src="img/04-screenshot.jpg" alt="image 1"></a>
+            <header class="entry-header">
+              <img src="img/04-screenshot.jpg" alt="image 1">
               <a href="https://yashasviagrotech.com/" target="_blank"><h6>Yashasvi Agrotech - Tractor Dealers</h6></a>
               <a>Click For More Info</a>
               </header>
           </article>
           <!--/home article --> 
           
-          <!--home article-->
+          <!--home article
           <article class="col-md-3 col-sm-6 col-xs-12">
             <header class="entry-header"> <img src="img/02-screenshot.jpg" alt="image 1"> <a href="#">
               <h6>Responsive Website in 2017 – 
